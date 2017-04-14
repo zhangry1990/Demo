@@ -2,7 +2,7 @@ package com.zhangry.demo.common.util;
 
 import com.fasterxml.jackson.databind.JavaType;
 import com.google.common.collect.Lists;
-import com.thinvent.common.page.QueryParameter;
+import com.zhangry.demo.common.page.QueryParameter;
 import java.util.Collection;
 import java.util.Iterator;
 import java.util.List;

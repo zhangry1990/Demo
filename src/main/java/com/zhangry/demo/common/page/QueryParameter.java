@@ -1,7 +1,7 @@
 package com.zhangry.demo.common.page;
 
 import com.google.common.collect.Lists;
-import com.thinvent.common.enums.AscDesc;
+import com.zhangry.demo.common.enums.AscDesc;
 import java.io.Serializable;
 import java.util.List;
 

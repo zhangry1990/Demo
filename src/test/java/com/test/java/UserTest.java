@@ -1,7 +1,7 @@
 package com.test.java;
 
-import com.thinvent.common.page.Page;
-import com.thinvent.common.page.QueryParameter;
+import com.zhangry.demo.common.page.Page;
+import com.zhangry.demo.common.page.QueryParameter;
 import com.zhangry.demo.ssh.entity.User;
 import com.zhangry.demo.ssh.service.UserService;
 import org.junit.Test;
